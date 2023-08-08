@@ -1,4 +1,4 @@
-# Lending Club Study 
+# Lending Club Case Study 
 A lending company facilitates loans for different pupose like personal loans, business loans, medical procedures. Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss / credit loss. Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. The number of defaulters can be reduced by identifying risky loan applicants at the time of loan approval. The goal of this project is to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default so that this information can be utilised for risk assessment during loan approval. 
  
 ## Table of Contents
@@ -47,14 +47,12 @@ A lending company facilitates loans for different pupose like personal loans, bu
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
+- Upgrad 
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by alokkmukherji@gmail.com / akshaykachroo2050@gmail.com
 
 
 <!-- Optional -->
