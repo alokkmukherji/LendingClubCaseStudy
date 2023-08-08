@@ -28,7 +28,7 @@ A lending company facilitates loans for different pupose like personal loans, bu
 -  After univariate, segmented univariate and bivariate analysis, the list of drivers for loan default mentioned below were identified: 
   1. Interest rate - Higher the interest rate, the chance of loan default is more
   2. Anual income  - Lower the income, the chance of loan default is more
-  3. Loan grade    - Chance of loan default is more for loan grade G
+  3. Loan grade    - Chance of loan default is more for loan grade F
   4. Loan sub grade - Chance of loan default is more for loan sub grade F5
   5. Loan term      - Higher chance of loan default for loan term 60
   6. Purpose of loan - Higher chance of loan default if loan is taken for small business
