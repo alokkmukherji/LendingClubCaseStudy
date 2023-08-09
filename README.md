@@ -48,6 +48,7 @@ A lending company facilitates loans for different pupose like personal loans, bu
 
 ## Acknowledgements
 
+- IIIT Bangalore
 - Upgrad 
 
 
